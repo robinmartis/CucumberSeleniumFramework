@@ -1,0 +1,352 @@
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\robin\AppData\Local\Temp\testng-eclipse--1615521857\testng-customsuite.xml
+
+2025-07-22 08:57:19 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-07-22 08:57:21 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 08:57:21 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 08:57:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 08:57:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 08:57:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 08:57:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 08:57:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@25d911a: 62 ms
+2025-07-22 08:57:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3a861417: 17 ms
+2025-07-22 08:57:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7185e611: 15 ms
+2025-07-22 08:57:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@72b40f87: 11 ms
+2025-07-22 08:57:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@507049f2: 6 ms
+2025-07-22 08:57:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4e94669c: 0 ms
+2025-07-22 09:01:49 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 09:01:50 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 09:01:54 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 09:01:54 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 09:01:58 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 09:01:58 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:30:21 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:30:21 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:30:22 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:30:22 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:30:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:30:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:33:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:33:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:33:32 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:33:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:33:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:33:35 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:33:37 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:33:37 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:33:38 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:34:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:34:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:34:35 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:34:36 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 10:34:36 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 10:34:36 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 10:34:36 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 10:34:37 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:34:37 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:34:37 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:34:39 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 10:34:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:34:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:34:41 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:34:42 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 10:42:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:42:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:42:18 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:42:19 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 10:42:19 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 10:42:20 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 10:42:20 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 10:42:20 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:42:20 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:42:21 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:42:22 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 10:42:23 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 10:42:23 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 10:42:23 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 10:42:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:42:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:42:24 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:42:25 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 10:42:28 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 10:42:28 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 10:42:28 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 10:42:28 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 10:42:28 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\robin\AppData\Local\Temp\testng-eclipse-1032394452\testng-customsuite.xml
+
+2025-07-22 10:59:56 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-07-22 10:59:57 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 10:59:57 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 10:59:58 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 10:59:59 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:00:00 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 11:00:00 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 11:00:00 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 11:00:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:00:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:00:01 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:00:02 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:00:03 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 11:00:03 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 11:00:03 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 11:00:04 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:00:04 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:00:05 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:00:06 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:00:09 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 11:00:09 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 11:00:09 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 11:00:09 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 11:00:09 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
+2025-07-22 11:00:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6e321d9d: 32 ms
+2025-07-22 11:00:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d3d76b4: 8 ms
+2025-07-22 11:00:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3c3e363: 4 ms
+2025-07-22 11:00:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@731db93f: 5 ms
+2025-07-22 11:00:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6eabe718: 5 ms
+2025-07-22 11:00:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@38d525aa: 0 ms
+2025-07-22 11:13:16 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:13:16 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:13:17 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:13:18 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:13:19 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 11:13:19 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 11:13:19 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 11:13:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:13:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:13:20 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:13:21 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:13:22 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 11:13:22 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 11:13:22 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 11:13:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:13:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:13:24 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:13:25 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:13:26 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 11:13:26 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 11:13:26 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 11:13:27 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 11:13:27 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
+2025-07-22 11:14:20 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:14:20 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:14:21 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:14:24 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:14:24 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 11:14:24 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 11:14:24 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 11:14:24 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:14:24 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:14:25 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:14:26 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:14:28 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 11:14:28 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 11:14:28 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 11:14:28 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:14:28 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:14:29 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:14:30 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:14:31 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 11:14:31 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 11:14:31 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 11:14:31 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 11:14:32 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
+2025-07-22 11:25:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:25:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:25:32 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:25:34 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:25:34 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 11:25:35 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 11:25:35 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 11:25:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:25:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:25:36 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:25:37 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:25:38 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 11:25:38 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 11:25:38 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 11:25:39 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:25:39 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:25:39 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:25:41 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:25:42 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 11:25:42 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 11:25:42 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 11:25:42 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 11:25:43 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
+2025-07-22 11:28:20 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:28:20 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:28:21 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:28:23 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:28:23 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 11:28:23 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 11:28:23 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 11:28:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:28:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:28:24 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:28:25 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:28:27 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 11:28:27 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 11:28:27 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 11:28:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 11:28:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 11:28:28 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 11:28:29 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 11:28:30 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 11:28:30 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 11:28:30 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 11:28:30 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 11:28:30 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
+2025-07-22 22:44:18 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 22:44:18 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 22:44:20 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 22:44:22 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 22:44:22 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 22:44:22 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 22:44:22 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 22:44:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 22:44:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 22:44:24 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 22:44:25 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 22:44:26 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 22:44:26 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 22:44:26 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 22:44:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 22:44:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 22:44:28 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 22:44:29 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 22:44:31 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 22:44:31 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 22:44:31 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 22:44:31 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 22:44:31 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
+2025-07-22 22:55:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 22:55:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 22:55:34 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 22:55:36 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 22:55:36 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 22:55:36 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 22:55:36 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 22:55:36 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 22:55:36 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 22:55:38 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 22:55:39 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 22:55:40 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 22:55:40 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 22:55:40 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 22:55:41 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 22:55:41 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 22:55:42 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 22:55:43 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 22:55:45 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 22:55:45 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 22:55:45 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 22:55:45 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 22:55:45 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
+2025-07-22 22:58:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 22:58:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 22:58:01 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 22:58:03 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 22:58:03 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 22:58:03 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 22:58:03 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 22:58:04 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 22:58:04 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 22:58:05 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 22:58:06 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 22:58:07 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 22:58:07 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 22:58:07 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 22:58:08 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 22:58:08 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 22:58:09 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 22:58:10 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 22:58:11 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 22:58:11 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 22:58:12 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 22:58:12 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 22:58:12 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
+2025-07-22 23:00:06 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 23:00:06 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 23:00:08 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 23:00:10 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 23:00:10 [main] INFO  stepdefinitions.LoginSteps - Username is entered
+2025-07-22 23:00:10 [main] INFO  stepdefinitions.LoginSteps - Password is engtered
+2025-07-22 23:00:10 [main] INFO  stepdefinitions.LoginSteps - Login button is visible
+2025-07-22 23:00:11 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 23:00:11 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 23:00:12 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 23:00:13 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 23:00:15 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Forgot Password
+2025-07-22 23:00:15 [main] INFO  stepdefinitions.PasswordResetSteps - In the password Reset page
+2025-07-22 23:00:15 [main] INFO  stepdefinitions.PasswordResetSteps - Actual text is : Find Your Account
+2025-07-22 23:00:15 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-22 23:00:15 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\robin\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-22 23:00:16 [main] INFO  stepdefinitions.LoginSteps - Starting the login step
+2025-07-22 23:00:18 [main] INFO  stepdefinitions.LoginSteps - Login page loaded
+2025-07-22 23:00:19 [main] INFO  stepdefinitions.SignUpSteps - Clicked on Create new Account
+2025-07-22 23:00:20 [main] INFO  stepdefinitions.SignUpSteps - Entered first name and last name 
+2025-07-22 23:00:20 [main] INFO  stepdefinitions.SignUpSteps - Mobile no is entered
+2025-07-22 23:00:20 [main] INFO  stepdefinitions.SignUpSteps - Password is entered 
+2025-07-22 23:00:20 [main] INFO  stepdefinitions.SignUpSteps - Sign up button visible : true
