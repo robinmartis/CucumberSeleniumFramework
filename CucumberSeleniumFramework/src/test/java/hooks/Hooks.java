@@ -13,17 +13,24 @@ import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import utils.ExtentReportManager;
+import com.aventstack.extentreports.ExtentTest;
 
 public class Hooks {
     public static WebDriver driver;
 
     @Before
-    public void setUp() {
-        WebDriverManager.chromedriver().setup();
+    public void setUp(Scenario scenario) {
+    	// Create ExtentTest for each scenario
+        ExtentTest test = ExtentReportManager.getExtent().createTest(scenario.getName());
+        ExtentReportManager.setTest(test);
+    	
+        // Start browser
+    	WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30)); 
     }
+    
     
     @AfterStep
     public void afterStep(Scenario scenario) {
@@ -51,6 +58,6 @@ public class Hooks {
         if (driver != null) {
             driver.quit();
         }
-        ExtentReportManager.getReporter().flush();
+        ExtentReportManager.flush();
     }
 }

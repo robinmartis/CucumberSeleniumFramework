@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration status="WARN">
+<Configuration status="WARN" packages="utils">
     <Appenders>
         <!-- Console Appender -->
         <Console name="Console" target="SYSTEM_OUT">
-            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n" />
+            <PatternLayout pattern="%d [%t] %-5level: %msg%n%throwable" />
         </Console>
 
         <!-- File Appender -->
@@ -12,6 +12,13 @@
                 <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Pattern>
             </PatternLayout>
         </File>
+        
+        <!-- Extend log Appender -->
+
+        <ExtentLogAppender name="ExtentLog">
+            <PatternLayout pattern="%-5level: %msg%n" />
+        </ExtentLogAppender>
+        
     </Appenders>
 
     <Loggers>

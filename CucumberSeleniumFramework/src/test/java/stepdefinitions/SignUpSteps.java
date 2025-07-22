@@ -2,9 +2,12 @@ package stepdefinitions;
 
 import org.apache.logging.log4j.Logger;
 
+import com.aventstack.extentreports.ExtentTest;
+
 import hooks.Hooks;
 import pages.LoginPage;
 import pages.SignUpPage;
+import utils.ExtentReportManager;
 import utils.LoggerHelper;
 import utils.ScreenshotUtil;
 import io.cucumber.java.BeforeStep;
@@ -16,6 +19,7 @@ public class SignUpSteps {
     SignUpPage signUpPage;
     
     private static final Logger log = LoggerHelper.getLogger(SignUpSteps.class);
+//    ExtentTest test = ExtentReportManager.getTest();
 
     @When("I click on {string}")
     public void i_click_on(String link) {
