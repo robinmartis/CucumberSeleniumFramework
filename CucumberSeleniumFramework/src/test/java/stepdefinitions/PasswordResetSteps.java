@@ -3,6 +3,9 @@ package stepdefinitions;
 import hooks.Hooks;
 import pages.LoginPage;
 import pages.ResetPasswordPage;
+import utils.ScreenshotUtil;
+import io.cucumber.java.BeforeStep;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.*;
 import io.cucumber.messages.types.Hook;
 
@@ -10,7 +13,6 @@ public class PasswordResetSteps {
     LoginPage loginPage = new LoginPage(Hooks.driver);
     ResetPasswordPage resetpassword = new ResetPasswordPage(Hooks.driver); 
     
-
     @Then("I should see the {string} page")
     public void i_should_see_the_page(String pageTitle) {
 //        String actualTitle = Hooks.driver.getTitle();

@@ -3,6 +3,9 @@ package stepdefinitions;
 import hooks.Hooks;
 import pages.LoginPage;
 import pages.SignUpPage;
+import utils.ScreenshotUtil;
+import io.cucumber.java.BeforeStep;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.*;
 
 public class SignUpSteps {
