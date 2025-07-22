@@ -1,18 +1,17 @@
 package stepdefinitions;
 
 import hooks.Hooks;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 import pages.LoginPage;
-import utils.ScreenshotUtil;
-import io.cucumber.java.BeforeStep;
-import io.cucumber.java.Scenario;
-import io.cucumber.java.en.*;
 
 public class LoginSteps {
     LoginPage loginPage;
 
     @Given("I open the browser")
     public void i_open_the_browser() {
-        loginPage = new LoginPage(Hooks.driver);
+        loginPage = new LoginPage(Hooks.driver); 
     }
 
     @When("I navigate to {string}")

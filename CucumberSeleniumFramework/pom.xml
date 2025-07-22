@@ -43,6 +43,21 @@
             <artifactId>webdrivermanager</artifactId>
             <version>5.8.0</version>
         </dependency>
+        
+        <!-- Extent Reports -->
+	    <dependency>
+	        <groupId>com.aventstack</groupId>
+	        <artifactId>extentreports</artifactId>
+	        <version>5.0.9</version>
+	    </dependency>
+	
+	    <!-- Extent Adapter for Cucumber -->
+	    <dependency>
+	        <groupId>tech.grasshopper</groupId>
+	        <artifactId>extentreports-cucumber7-adapter</artifactId>
+	        <version>1.7.0</version>
+	    </dependency>
+	        
     </dependencies>
 
     <build>

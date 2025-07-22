@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <timelineEnabled>true</timelineEnabled>
+        <documentTitle>Automation Test Report</documentTitle>
+        <reportName>Facebook Test Automation</reportName>
+        <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+        <charts>
+            <chart>
+                <enabled>true</enabled>
+            </chart>
+        </charts>
+    </configuration>
+</extentreports>
