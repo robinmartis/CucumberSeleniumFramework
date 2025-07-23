@@ -11,6 +11,7 @@ import io.cucumber.testng.CucumberOptions;
     		"html:target/cucumber-reports.html", 
     		"json:target/cucumber.json", 
     		"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
+    		"utils.StepTracker", // Register our custom event listener
     		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"  // Add Extent adapter
     },
     monochrome = true
