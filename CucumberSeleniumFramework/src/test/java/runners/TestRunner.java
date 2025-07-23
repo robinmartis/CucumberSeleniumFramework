@@ -10,6 +10,7 @@ import io.cucumber.testng.CucumberOptions;
     		"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm", // Allure plugin
     		"html:target/cucumber-reports.html", 
     		"json:target/cucumber.json", 
+    		"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
     		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"  // Add Extent adapter
     },
     monochrome = true
