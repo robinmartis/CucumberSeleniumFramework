@@ -1,10 +1,14 @@
 # Maven target folder
 target/
+allure-results/
+test-output/
+logs/
 
 # Eclipse files
 .classpath
 .project
 .settings/
+.
 
 # OS files
 .DS_Store
