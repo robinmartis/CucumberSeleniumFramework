@@ -5,6 +5,9 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
+import java.util.List;
+import java.util.Map;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -51,4 +54,48 @@ public class LoginSteps {
         org.testng.Assert.assertEquals(actual, expected);
     	
     }
+    
+    @When("I enter user credentials to login")
+    public void i_enter_user_credentials_to_login(io.cucumber.datatable.DataTable dataTable) {
+    	
+    	List<List<String>>data = dataTable.asLists(); 
+    	loginPage.enterEmail(data.get(0).get(0));
+        log.info("Username is entered" );
+        loginPage.enterPassword(data.get(0).get(1));
+        log.info("Password is engtered");
+    	
+    }
+    
+    @When("I enter user credentials to login using datatable")
+    public void i_enter_user_credentials_to_login_using_datatable(io.cucumber.datatable.DataTable dataTable) {
+        
+    	List<Map<String, String>> data = dataTable.asMaps(String.class, String.class);
+    	
+    	for(Map<String, String> row : data) {
+            String username = row.get("Username");
+            String password = row.get("Password");
+    		
+            loginPage.enterEmail(username);
+            log.info("Username is entered" );
+            loginPage.enterPassword(password);
+            log.info("Password is engtered");
+    	}
+    		
+    	
+    }
+
+    
+    @Given("test background step1")
+    public void test_background_step1() {
+        System.out.println("Running background step1 ");
+    }
+    @When("test background_step2")
+    public void test_background_step2() {
+    	System.out.println("Running background step2 ");
+    }
+
+    
+    
+    
+    
 }

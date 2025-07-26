@@ -10,12 +10,16 @@ import io.cucumber.testng.CucumberOptions;
     		"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm", // Allure plugin
     		"html:target/cucumber-reports.html", 
     		"json:target/cucumber.json", 
-    		"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
+//    		"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
     		"utils.StepTracker", // Register our custom event listener
     		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"  // Add Extent adapter
     },
+    
+//    tags = "not @RegressionTest and not @SmokeTest",
+    
+    
     monochrome = false, 
-    dryRun = true
+    dryRun = false
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
 }
