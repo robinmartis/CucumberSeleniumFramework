@@ -14,7 +14,8 @@ import io.cucumber.testng.CucumberOptions;
     		"utils.StepTracker", // Register our custom event listener
     		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"  // Add Extent adapter
     },
-    monochrome = true
+    monochrome = false, 
+    dryRun = true
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
 }

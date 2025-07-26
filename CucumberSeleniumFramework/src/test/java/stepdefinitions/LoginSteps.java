@@ -7,6 +7,9 @@ import io.cucumber.java.en.When;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import com.aventstack.extentreports.util.Assert;
+
 import pages.LoginPage;
 import utils.LoggerHelper;
 
@@ -39,5 +42,13 @@ public class LoginSteps {
         boolean visible = loginPage.isLoginButtonDisplayed();
         System.out.println("Login button visible: " + visible);
         log.info("Login button is visible");
+    }
+    
+    @Then("I should see the Create a Page link")
+    public void i_should_see_the_create_a_page_link() {
+        String actual = loginPage.LinkCreateAPage(); 
+        String expected = "Create a Page"; 
+        org.testng.Assert.assertEquals(actual, expected);
+    	
     }
 }

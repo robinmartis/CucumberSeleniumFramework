@@ -40,6 +40,10 @@ public class LoginPage {
     public void clickForgotPassword() {
         driver.findElement(forgotPasswordLink).click();
     }
+    
+    public String LinkCreateAPage() {
+    	return driver.findElement(By.linkText("Create a Page")).getText();
+    }
 
     
     
